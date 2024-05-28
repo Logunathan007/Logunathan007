@@ -1,10 +1,10 @@
 ## Hi 👋 It's me Logunathan J
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-Student @ Karpagam Institute of Technology, Coimbatore                                  
-- 👨‍💻 I’m good in Full Stack Development.
-- 👯 I’m looking for an Developer Role.
-- 💬 Ask me about Tech.
-- 📫 How to reach me : 
+Student @ Karpagam Institute of Technology, Coimbatore.<br/>                                  
+- 👨‍💻 I’m good in Full Stack Development.<br/>
+- 👯 I’m looking for an Developer Role.<br/>
+- 💬 Ask me about Tech.<br/>
+- 📫 How to reach me : <br/>
 [<img src="https://img.shields.io/badge/Gmail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logulogu20032003@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/logu-nj)
 
 ### I code in
